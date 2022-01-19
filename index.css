@@ -4,8 +4,5 @@
 [data-el-id="1"] { background-image: url('./i-1.jpg'); }
 [data-el-twin-id="1"] { background-image: url('./i-1.jpg'); }
 
-/* [data-el-twin-id="0"] { color: tomato; }
-[data-el-twin-id="1"] { color: tomato; } */
-
-[data-el-twin-id="0"] { --vis: 1px; }
-[data-el-twin-id="1"] { --vis: 1px; }
+[data-el-twin-id="0"] { --ololo1: 0; }
+[data-el-twin-id="1"] { --ololo1: 0; }
